@@ -1,8 +1,8 @@
 {
   "name": "Praca domowa: Hydrapp",
   "short_name": "Hydrapp",
-  "theme_color": "#7c7c7c",
-  "background_color": "#f7cacd",
+  "theme_color": "#2196F3",
+  "background_color": "#2196F3",
   "display": "standalone",
   "orientation": "portrait",
   "scope": "/hydrapp/",
