@@ -1,0 +1,16 @@
+.hydro {
+  position: relative;
+  width: 375px;
+  height: 812px;
+  &__h1 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 55px;
+    line-height: 64px;
+    text-align: center;
+    margin: 87px 0 68px 50px;
+    position: absolute;
+    width: 275px;
+    height: 48px;
+  }
+}

@@ -1,0 +1,17 @@
+.licznik {
+  position: absolute;
+  width: 280px;
+  height: 280px;
+  margin: 203px 0 0 47px;
+  background: url("../assets/img/water-glass.svg");
+  background-size: contain;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  &__szklanek {
+    font-weight: 500;
+    font-size: 112px;
+    color: rgb(0, 0, 0);
+    margin-top: 50px;
+  }
+}
