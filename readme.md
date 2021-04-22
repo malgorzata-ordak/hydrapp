@@ -1,18 +1,11 @@
+<<<<<<< HEAD
 ![cover](./github/og.png)
+=======
+>>>>>>> a25c6bd42ebebc44ec39037043f3a6bd69de2748
 
-# WTF Webpack Starter Kit 
 
-Simple toolkit for your static websites development.
+# Hydrapp
+Do you know how, many glasses of water you drink each day?
+ You can check it out now, using my water application :)
 
-## How to use it?
-
-Click on `Use this template` button to generate a new repository based on this starter kit. After that clone it to your computer, go to the project directory in console and type `npm install`.
-
-## Available scripts
-
-`npm run start` - runs development mode
-
-`npm run build` - runs build process for production
-
-`npm run publish` - runs build process and publish the page using `gh-pages` branch
 
