@@ -1,4 +1,4 @@
-
+![cover](./github/og.png)
 
 # Hydrapp
 Do you know how, many glasses of water you drink each day?
